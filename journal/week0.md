@@ -11,4 +11,8 @@
 
 ![_Cruddur Logical Diagram](https://user-images.githubusercontent.com/108017660/218864560-1f5369d4-18e5-42f6-9c7b-5c488802a1e4.jpeg)
 
+- In order to have all process documented, this is the conceptual diagram for the Cruddur Application.
+
+![Cruddur Conceptual Diagram](https://user-images.githubusercontent.com/108017660/218876754-c0ae8189-b08b-4fe9-9acf-ecfb922179d3.jpeg)
+
 
