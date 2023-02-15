@@ -44,3 +44,6 @@
 
 ![AWS Organiztions](../journal/assets/BudgetAlarm3.jpg)
 
+- Regarding the CI/CD Pipeline, I worked before with other technologies like Octopus and TeamCity, but in this case, I am very interested in de AWS CodePipeline. I think this is the process to make a Pipeline with this tool.
+
+![AWS Organiztions](../journal/assets/cicdpipeline.jpeg)
